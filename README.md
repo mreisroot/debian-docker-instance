@@ -6,6 +6,8 @@ Este é um Vagrantfile que, ao ser executado, cria uma máquina Debian (mas pode
 
 Tudo isso leva nada mais, nada menos que 2 MINUTOS e 41 SEGUNDOS para ser executado! :D
 
+Obs: Essa duração ocorre quando já se tem a imagem Vagrant baixada na máquina local.
+
 Para executar o Vagrantfile, execute no terminal:
 
 `vagrant up`
