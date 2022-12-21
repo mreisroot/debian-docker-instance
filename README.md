@@ -5,3 +5,7 @@ Este é um Vagrantfile que, ao ser executado, cria uma máquina Debian (mas pode
 `config.vm.provision "shell", path: "docker-setup.sh"`
 
 Tudo isso leva nada mais, nada menos que 2 MINUTOS e 41 SEGUNDOS para ser executado! :D
+
+Para executar o Vagrantfile, execute no terminal:
+
+`vagrant up`
